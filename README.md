@@ -1,4 +1,4 @@
-# advanced_database_class
-Advanced Database 
+# software_testing_class
+Software Testing Methodologies
 
-This is material for Dr. Gregory DeLozier's class in Advanced Database Systems Design. 
+This is material for Dr. Gregory DeLozier's class in Software Testing Methodologies. 
